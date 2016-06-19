@@ -1,0 +1,12 @@
+MLed-notification, a Pidgin plugin for Nokia N900
+----------------
+
+MLed-notification control phone led and vibrator.
+
+Based on led-notification plugin by Simo Mattila
+
+Changelog:
+
+Version 0.1
+
+    * Initial version
